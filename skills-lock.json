@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "perplexity": {
+      "source": "softaworks/agent-toolkit",
+      "commit": "3027f20f3181758385a1bb8c022d4041dfb4de84",
+      "sourceType": "github",
+      "skillPath": "skills/perplexity/SKILL.md",
+      "computedHash": "ae95740f10210e99a303b329a864e24bba5699bd424acf90d6c2700eb07fc775"
+    }
+  }
+}
